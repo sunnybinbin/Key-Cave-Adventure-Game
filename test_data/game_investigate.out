@@ -1,0 +1,62 @@
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 7
+
+Please input an action: D
+#####
+# #K#
+# O #
+# D #
+#####
+Moves left: 6
+
+Please input an action: I S
+Door('D') is on the S side.
+#####
+# #K#
+# O #
+# D #
+#####
+Moves left: 5
+
+Please input an action: D
+#####
+# #K#
+#  O#
+# D #
+#####
+Moves left: 4
+
+Please input an action: I D
+Wall('#') is on the D side.
+#####
+# #K#
+#  O#
+# D #
+#####
+Moves left: 3
+
+Please input an action: I W
+Key('K') is on the W side.
+#####
+# #K#
+#  O#
+# D #
+#####
+Moves left: 2
+
+Please input an action: I A
+None is on the A side.
+#####
+# #K#
+#  O#
+# D #
+#####
+Moves left: 1
+
+Please input an action: I S
+None is on the S side.
+You have lost all your strength and honour.

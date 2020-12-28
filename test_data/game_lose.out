@@ -1,0 +1,57 @@
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 7
+
+Please input an action: D
+#####
+# #K#
+# O #
+# D #
+#####
+Moves left: 6
+
+Please input an action: A
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 5
+
+Please input an action: D
+#####
+# #K#
+# O #
+# D #
+#####
+Moves left: 4
+
+Please input an action: A
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 3
+
+Please input an action: D
+#####
+# #K#
+# O #
+# D #
+#####
+Moves left: 2
+
+Please input an action: A
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 1
+
+Please input an action: D
+You have lost all your strength and honour.

@@ -1,0 +1,62 @@
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 7
+
+Please input an action: A
+That's invalid.
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 6
+
+Please input an action: d
+That's invalid.
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 6
+
+Please input an action: I M
+That's invalid.
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 6
+
+Please input an action: 2
+That's invalid.
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 6
+
+Please input an action: I DD
+That's invalid.
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 6
+
+Please input an action: hello
+That's invalid.
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 6
+
+Please input an action: 

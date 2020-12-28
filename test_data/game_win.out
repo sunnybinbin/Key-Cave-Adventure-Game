@@ -1,0 +1,49 @@
+#####
+# #K#
+#O  #
+# D #
+#####
+Moves left: 7
+
+Please input an action: D
+#####
+# #K#
+# O #
+# D #
+#####
+Moves left: 6
+
+Please input an action: D
+#####
+# #K#
+#  O#
+# D #
+#####
+Moves left: 5
+
+Please input an action: W
+#####
+# #O#
+#   #
+# D #
+#####
+Moves left: 4
+
+Please input an action: S
+#####
+# # #
+#  O#
+# D #
+#####
+Moves left: 3
+
+Please input an action: S
+#####
+# # #
+#   #
+# DO#
+#####
+Moves left: 2
+
+Please input an action: A
+You have won the game with your strength and honour!
