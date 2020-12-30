@@ -548,7 +548,7 @@ class Door(Entity):
         return self.__str__()
 
     def on_hit(self, game: GameLogic) -> None:
-        '''t'''
+        '''Act when the player hit the door'''
         player = game.get_player()
         inventory = player.get_inventory()
         if inventory:
