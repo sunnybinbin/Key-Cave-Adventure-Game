@@ -1,6 +1,9 @@
 # Key-Cave-Adventure-Game
 ## Background
 Key Cave Adventure Game is a single-player dungeon-crawler game where the player adventurously explores a dungeon. The objective is for the player to find the key and get out of the dungeon through the door. The game play utilises simple key commands. The positions of Entities are always represented as (row, col).  
+## Class structure
+The program follows the Apple model-view-controller (Apple MVC) structure.
+![Class structure](class_structure.png)
 ## Usage
 Run a2.py to start the game.  
 a2_support.py,  gamen.txt (game1.txt, game2.txt, or game3.txt) are required for a2.py.  
